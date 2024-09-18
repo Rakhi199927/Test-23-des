@@ -9,7 +9,7 @@ public class LogInOrSignUp {
 
 	//variable--private= Webelement
 	@FindBy(xpath = ("//input[@name='email']"))
-	private WebElement userName;
+	private WebElement userName1234;
 	
 	@FindBy(xpath =("//input[@id='pass']"))
 	private WebElement userPassword;
